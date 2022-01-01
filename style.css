@@ -1,0 +1,23 @@
+.jumbotron {
+  padding: 6rem 1rem;
+  background-color: rgb(215, 255, 215);
+}
+
+.container1 {
+  padding: 4rem;
+}
+
+.container2 {
+  padding: 4rem;
+}
+
+.container4 {
+  justify-content: space-between;
+}
+
+.row1 {
+  padding: 4rem;
+}
+
+/* responsive break point */
+
